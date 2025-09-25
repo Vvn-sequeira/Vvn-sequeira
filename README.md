@@ -1,7 +1,6 @@
 - 👋 Hi, Myself Vivian Marcel Sequeira 
--  full stack developer 
--   currently working on Next js
--  I’m looking to collaborate on   projects 😊
+-  full stack developer
+-  I’m looking to collaborate on projects 😊
   
 
 <!---
